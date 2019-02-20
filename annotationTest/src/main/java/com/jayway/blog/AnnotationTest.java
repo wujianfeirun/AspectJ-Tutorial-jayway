@@ -1,8 +1,10 @@
 package com.jayway.blog;
 
-public class YourClass {
+public class AnnotationTest {
+
 
     public static void main(String[] args) {
+        //com.jayway.blog.YourClass.yourMethodAround();
         yourMethodAround();
     }
 
@@ -10,4 +12,5 @@ public class YourClass {
     public static void yourMethodAround(){
         System.out.println("Executing TestTarget.yourMethodAround()");
     }
+
 }

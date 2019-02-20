@@ -77,5 +77,6 @@
         <module>annotations-element-value-pair</module>
         <module>example-sample-project</module>
         <module>annotations-element-value-pair-without-main-class</module>
+        <module>annotationTest</module>
     </modules>
 </project>
